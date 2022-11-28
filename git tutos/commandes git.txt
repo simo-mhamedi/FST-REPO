@@ -1,0 +1,4 @@
+git add .
+git commit -m "your comment"
+git push for send your modifications
+git pull for get to new changes
