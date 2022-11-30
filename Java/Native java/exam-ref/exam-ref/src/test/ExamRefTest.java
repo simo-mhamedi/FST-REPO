@@ -64,5 +64,7 @@ public class ExamRefTest {
         else{
             System.out.println("yellow");
         }
+        System.out.println("testDelete = " + testDelete);
+        
     }
 }
