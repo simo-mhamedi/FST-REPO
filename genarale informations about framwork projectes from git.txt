@@ -1,0 +1,9 @@
+1: our laptop shauld active devlopper mode
+2: after git pull or git clone we shauld install dependences
+
+copy on terminal 1:  composer install
+copy on terminal 2:  npm install
+copy on terminal 3:  cp .env.example .env
+copy on terminal 4:  php artisan key:generate
+
+finally run :php artisan serve
